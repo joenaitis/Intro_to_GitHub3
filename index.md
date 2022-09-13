@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Joe's Programming and Data Analysis Website: Welcome!
 ---
 
